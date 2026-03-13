@@ -51,7 +51,7 @@ class tomato extends StatelessWidget {
                     color:  Colors.white,
                     fontSize: 60,
                     fontWeight: FontWeight.w700,
-                    fontStyle: FontStyle.italic,//testin push
+                    fontStyle: FontStyle.italic,//testin push one cagain
 
 
 
