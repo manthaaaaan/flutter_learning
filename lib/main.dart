@@ -14,7 +14,7 @@ class  MyApp extends StatelessWidget {
 
       home: Scaffold(
         backgroundColor: Colors.black,
-        body:   Center(//suzed
+        body:   Center(//newnwenwe
           child: tomato(),
         ),
 
