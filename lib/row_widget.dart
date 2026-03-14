@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:manthan/main.dart';
 
 
 class MyRowWidget extends StatelessWidget {
@@ -10,13 +11,17 @@ class MyRowWidget extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Icon(
-            Icons.coffee,
+            Icons.fastfood,
           color: Colors.white,
           size: 90,
 
 
+
         ),
 
+
+
+tomato()
 
       ],
     );
